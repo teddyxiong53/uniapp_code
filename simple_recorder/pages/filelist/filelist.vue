@@ -2,7 +2,7 @@
 	<view >
 		<view class="uni-list" v-for="(filename, index) in files" :key="index">
 			<view class="uni-list-cell">
-				{{filename}}
+				{{index}}:{{filename}}
 			</view>
 		</view>
 	</view>

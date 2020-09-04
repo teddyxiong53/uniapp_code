@@ -5,6 +5,12 @@
 			"style": {
 				"navigationBarTitleText": "录音播放"
 			}
+		},
+		{
+			"path": "pages/filelist/filelist",
+			"style": {
+				"navigationBarTitleText": "查看文件"
+			}
 		}
 	],
 	"globalStyle": {
